@@ -495,15 +495,14 @@ tr td{
 #footer {
     background: #333;
     color: #fff;
-    padding: 10px;
+    padding: 5px;
     justify-content: center;
     font-family: 'Ubuntu', sans-serif;
     display: flex;
-    margin-top: 10px;
-    height: 30px;
+    height: 25px;
 }
 
-#footer a{
+#footer p{
       color: #d31e25;
       padding-left: 5px;
       font-family: 'Ubuntu', sans-serif;
