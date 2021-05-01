@@ -492,7 +492,7 @@ tr td{
 }
 
   /* footer */
-#footer a{
+footer a{
       color: #d31e25;
       padding-left: 5px;
       font-family: 'Ubuntu', sans-serif;
