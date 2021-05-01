@@ -484,3 +484,11 @@ input[type=text], select, textarea {
 	background-color: #f2f2f2;
 	padding: 20px;
   }
+
+article h2 {
+    text-align: center;
+}
+
+aside h3 {
+	text-align: left;
+}
