@@ -10,7 +10,8 @@ if (thumbnailElement.className = "small") {
     thumbnailElement.addEventListener("click", function() {
         thumbnailElement.className = "";
     });
-} else {
+}
+else {
     thumbnailElement.addEventListener("click", function() {
         thumbnailElement.className = "small";
     });
