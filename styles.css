@@ -494,17 +494,18 @@ tr td{
   /* footer */
 #footer {
     background: #333;
-    color: #fff;
+     color: #d31e25;
     padding: 5px;
     justify-content: center;
     font-family: 'Ubuntu', sans-serif;
     display: flex;
+	margin-top:5px;
     height: 25px;
 }
 
 #footer p{
-      color: #d31e25;
-      padding-left: 5px;
+	color: #fff;
+     padding-left: 5px;
       font-family: 'Ubuntu', sans-serif;
 }
 
