@@ -424,65 +424,7 @@ main{
     color: #4294FF;
   }
 
-/* Contact Section Details */
-.contact-process{
-    padding: 40px 60px;
-    padding-bottom: 10px;
 
-}
-.contact-process h3{
-    color: black;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 600px;
-    margin-bottom: 30px;
-}
-.contact-detail{
-    padding: 0px;  
-}
-.row-input{
-    justify-content: space-between;
-    display: flex;
-    margin-bottom: 20px;
-}
-.row-input .group-input{
-    flex-basis: 45%;
-}
-label{
-    display: block;
-    color: #d31e25;
-    margin-bottom: 7px;
-}
-
-input{
-    border: none;
-    outline: none;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 5px;
-    width: 100%;
-}
-textarea{
-    box-sizing: border-box;
-    outline: none;
-    padding: 10px;
-    width: 100%;
-    border: 1px solid #ccc;
-}
-button{
-    color: floralwhite;
-    width: 100px;
-    outline: none;
-    background-color: #d31e25;
-    border: none;
-    height: 30px;
-    margin-top: 20px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-.contact-detail h3{
-    color: black;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 600px;
-}
 /* table contact styling */
 tr td:first-child{
     padding-right: 20px;
