@@ -496,3 +496,7 @@ aside h3 {
   body {
       background-color: #c7faf7;
   }
+
+  .home h2 {
+      text-align: center;
+  }
