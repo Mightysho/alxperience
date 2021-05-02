@@ -481,7 +481,7 @@ input[type=text], select, textarea {
   /* Add a background color and some padding around the form */
   .container {
 	border-radius: 5px;
-	background-color: #87a6bb;
+	background-color: #87a6bbd3;
 	padding: 20px;
   }
 
